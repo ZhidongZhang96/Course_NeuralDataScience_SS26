@@ -35,3 +35,6 @@ Set up `nbdime`.
 ```bash
 nbdime config-git --enable
 ```
+
+> The `pre-commit` notebook hook activates the `nds_env` conda environment before running `nbdev_clean`. (edition on `run_nbdev_on_staged_files.sh`)
+
