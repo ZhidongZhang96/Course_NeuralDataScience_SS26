@@ -1,5 +1,6 @@
 Coding lab for 'Neural Data Science 2026' in GTC, Tuebingen.
 
+> data stored at `data/` are not uploaded due to the limitation of Github. 
 
 # Repository for Neural Data Science
 
