@@ -2,4 +2,4 @@
 .git/
 .idea/
 data/
-
+__pycache__/
